@@ -1,0 +1,31 @@
+.cd{
+    background-image: url('https://cdn.wallpapersafari.com/83/42/hU6Jsz.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-body1{
+    background-image: url('https://images.unsplash.com/photo-1612198619563-a3a31fd47e6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3Vuc2V0JTIwY2xvdWR8ZW58MHx8MHx8&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.card-body2{
+    background-image: url('https://www.scienceabc.com/wp-content/uploads/2017/12/Humidity-water-drops-on-glass.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.card-body3{
+    background-image: url('https://cdn3.vectorstock.com/i/1000x1000/66/42/sunset-sea-and-boat-vector-27126642.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#city_name{
+    color: white;
+}
+/*https://www.linkedin.com/in/yash-nikam-3404bb223*/
